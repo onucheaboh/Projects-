@@ -1,0 +1,23 @@
+Project Description: The project involved migrating on-premises infrastructure to the AWS cloud. 
+The objective was to improve the company's scalability, reliability, and reduce operational costs.
+
+Project Deliverables:
+
+Designed the AWS cloud architecture to support the company's business requirements.
+Set up AWS accounts, configured IAM policies, and created VPCs, subnets, and security groups.
+Implemented a migration plan to move on-premises VMs to AWS using AWS Server Migration Service (SMS).
+Optimized the migration process by tuning server settings and leveraging AWS features like CloudEndure Migration.
+Tested and validated migrated workloads to ensure they met performance and security requirements.
+Documented the migration process and provided training to IT staff on AWS cloud management and administration.
+
+Tools and Technologies Used: Amazon Web Services (AWS) - EC2, S3, VPC, CloudFormation, CloudWatch, CloudTrail, RDS, AWS Server Migration Service (SMS) 
+and CloudEndure Migration.
+- PowerShell scripts for automation and management.
+- AWS CLI for deployment and configuration.
+
+The final stage involved testing and validating the migrated workloads to ensure they met performance and security requirements and resulted in improved
+application performance and reduced infrastructure costs by 40%.
+
+
+
+
