@@ -1,0 +1,15 @@
+Serverless Project: "Scalable Web Application Deployment"
+
+Project Description: Scalable Web Application Deployment is a project that involves designing and implementing a web application architecture that can 
+handle increasing levels of traffic and user demand. The goal of this project is to ensure that the web application can scale up or down automatically
+to meet the demands of the users without compromising performance, reliability, or security.
+
+Technology used: 
+- Designed and developed a serverless web application using AWS Lambda, API Gateway, and S3.
+- Used AWS Cognito for authentication and authorization of users, and DynamoDB for data storage and retrieval.
+
+
+Project Outcome:
+- Implemented serverless architecture to enable automatic scaling and reduce infrastructure costs.
+- Resulted in improved application performance and reduced infrastructure costs by 50%.
+- Received positive feedback from end-users on the application's responsiveness and ease-of-use.
