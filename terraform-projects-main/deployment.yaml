@@ -42,22 +42,3 @@ spec:
           initialDelaySeconds: 5
           periodSeconds: 5
 
----
-# Service manifest
-apiVersion: v1
-kind: Service
-metadata:
-  name: nginx-service
-  namespace: default
-  labels:
-    app: nginx
-spec:
-  type: ClusterIP  # Options: ClusterIP, NodePort, LoadBalancer
-  selector:
-    app: nginx  # Must match the labels in the Deployment
-  ports:
-  - name: http
-    protocol: TCP
-    port: 80          # Port exposed by the service
-    targetPort: 80    # Port on the container
-  sessionAffinity: None
